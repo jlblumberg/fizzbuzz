@@ -1,5 +1,5 @@
-class Fizzbuzz < Integer
+class Integer
   def fizzbuzz
-    "fizz"
+    return "fizz"
   end
 end
